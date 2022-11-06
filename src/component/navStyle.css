@@ -1,0 +1,11 @@
+.items{
+    display: flex;
+    gap: 100px;
+    list-style-type: none;
+    justify-content: center;
+    margin: 20px;
+  
+}
+.link1{
+   text-decoration: none;
+}
